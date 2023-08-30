@@ -9,6 +9,7 @@ object Dependencies {
     private const val composeMaterial3 = "androidx.compose.material3:material3"
     private const val glideCompose = "com.github.bumptech.glide:compose:1.0.0-alpha.5"
     private const val coilCompose = "io.coil-kt:coil-compose:2.4.0"
+    private const val systemUiController = "com.google.accompanist:accompanist-systemuicontroller:0.31.0-alpha"
 
     //implementation && android test implementation (platform)
     private const val composeBom = "androidx.compose:compose-bom:2023.03.00"
@@ -35,6 +36,7 @@ object Dependencies {
         add(composeMaterial3)
 //        add(glideCompose)
         add(coilCompose)
+        add(systemUiController)
     }
 
     val platform = arrayListOf<String>().apply {
