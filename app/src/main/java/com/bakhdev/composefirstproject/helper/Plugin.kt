@@ -1,4 +1,4 @@
-package com.bakhdev.composefirstproject
+package com.bakhdev.composefirstproject.helper
 
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
