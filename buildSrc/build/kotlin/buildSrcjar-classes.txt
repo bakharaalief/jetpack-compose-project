@@ -1,0 +1,1 @@
+C:\Projects\Android\compose-first-project\buildSrc\build\classes\kotlin\main\Config.class;C:\Projects\Android\compose-first-project\buildSrc\build\classes\kotlin\main\Dependencies.class;C:\Projects\Android\compose-first-project\buildSrc\build\classes\kotlin\main\HandlerKt.class
